@@ -1,0 +1,25 @@
+I did this with divide and conquer way in python
+
+1.Break problems recursively
+
+2. Once you reach base case : no majority for num_element <= 0 and
+
+majority for num_element = 1
+
+3. Now if left_maj == right_maj you have a majority in both sides and you are done.
+
+4. Otherwise you count number of elements of left and right majority
+
+5. Return either left_majority or right_majority depending upon whoever is larger n//2 elements.
+
+Lesson I learnt : Do not return Count of items but actual majority element.
+
+ 2 Upvote
+
+PD
+Pradeep Das · 2 months ago · Edited
+is it actually a divide and conquer approach when counting both halves (as in step 4 above)...
+
+it would be less work if both the majority element and its count are returned.
+
+you don't need to sort anything. Just divide in two half, get the two element calculated (recursively) by two half and use both values "merging" the two call, counting in some way.

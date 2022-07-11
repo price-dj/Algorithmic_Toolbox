@@ -1,0 +1,12 @@
+Failed case #3/20: (Wrong answer)
+
+Input:
+10
+2 124554847 2 941795895 2 2 2 2 792755190 756617003
+
+Your output:
+0
+
+Correct output:
+1
+ (Time used: 0.04/5.00, memory used: 20144128/536870912.)
