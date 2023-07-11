@@ -1,6 +1,6 @@
 # Algorithmic_Toolbox
 
-These files are my attempts at solutions for the weekly problems and assignments for this course. Don't expect the most advanced or most correct solutions.
+Disclaimer: These files are my attempts at solutions for the weekly problems and assignments for this course. Don't expect the most advanced or most correct solutions.
 
 MOOC on Coursera - Data Structures &amp; Algorithms - Algorithmic Toolbox given by UC San Diego undertaken in 2016
 
